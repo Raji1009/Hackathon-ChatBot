@@ -399,8 +399,7 @@ npm start
 ✅ < 5s Response Time
 
 ## OUTPUT:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fde8bf44-da90-4a2d-bfc5-b50368acc36f" />
 
 
 ---
-
-Would you like me to make this README **formatted with emojis, color tags, and markdown collapsible sections** (like GitHub’s “click to expand code”) for extra presentation polish for your hackathon repo?
